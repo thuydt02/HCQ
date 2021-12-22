@@ -8,8 +8,8 @@ The dataset has 2 files:
 + tweets_manual_classifying.csv includes randomly selected 4850 tweets in March 21, April 06, July 28, October 02. These tweets are manually classified into one of three classes: positive, neutral, and negative, basing on the claim that HCQ is a cure for COVID-19 treatment.
 
 Each file has the following features:
-full_text: the content of a tweet
-user_location: the location of user who created the tweet
++ full_text: the content of a tweet
++ user_location: the location of user who created the tweet
 friends_count: the number of friends of the user who created the tweet
 followers_count: the number of followers of the user who created the tweet
 reply_count: the number of replies of the tweet
