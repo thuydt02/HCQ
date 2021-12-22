@@ -10,17 +10,17 @@ The dataset has 2 files:
 Each file has the following features:
 + full_text: the content of a tweet
 + user_location: the location of user who created the tweet
-friends_count: the number of friends of the user who created the tweet
-followers_count: the number of followers of the user who created the tweet
-reply_count: the number of replies of the tweet
-retweet_count: how many times the tweet is retweeted
-favorite_count: the number of likes (favorites) of the tweet
-created_date/created_at: the date when the tweet is created
-manual_positivity: in the set of {neu = neutral, neg = negative, pos = positive}
-index: the id number of the tweet. It is to linked with the raw tweet file.
-hastag: the hastags in the tweet
-is_with_url: in the set of {0 = no url in the tweet, 1 = there is some urls in the tweet}
-hydroxychloroquine: in the set of {1 = the tweet contains the keyword "hydroxychloroquine", 0 = otherwise}
-query_string: the query string to pull the tweet (=hydroxychloroquine)
++ friends_count: the number of friends of the user who created the tweet
++ followers_count: the number of followers of the user who created the tweet
++ reply_count: the number of replies of the tweet
++ retweet_count: how many times the tweet is retweeted
++ favorite_count: the number of likes (favorites) of the tweet
++ created_date/created_at: the date when the tweet is created
++ manual_positivity: in the set of {neu = neutral, neg = negative, pos = positive}
++ index: the id number of the tweet. It is to linked with the raw tweet file.
++ hastag: the hastags in the tweet
++ is_with_url: in the set of {0 = no url in the tweet, 1 = there is some urls in the tweet}
++ hydroxychloroquine: in the set of {1 = the tweet contains the keyword "hydroxychloroquine", 0 = otherwise}
++ query_string: the query string to pull the tweet (=hydroxychloroquine)
 
 Please read the paper to see how we manually classify a tweet.
