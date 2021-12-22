@@ -2,7 +2,7 @@
 
 This dataset is associated with the paper "Understanding Public Opinion on using Hydroxychloroquine for COVID-19 Treatment via Social Media", accepted by 15th International Conference on Health Informatics (HealthInf 2022)
 
-The dataset consists of tweets pulling from Twitters with keyword: Hydroxychloroquine (HCQ), location:  US, Time: Feb - Dec, 2020.
+The dataset consists of tweets pulling from Twitter with keyword: Hydroxychloroquine (HCQ), location:  US, Time: Feb - Dec, 2020.
 The dataset has 2 files:
 + Full_tweet_to_github.csv.zip includes 164168 raw tweets
 + tweets_manual_classifying.csv includes randomly selected 4850 tweets in March 21, April 06, July 28, October 02. These tweets are manually classified into one of three classes: positive, neutral, and negative, basing on the claim that HCQ is a cure for COVID-19 treatment.
