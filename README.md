@@ -24,3 +24,4 @@ Each file has the following features:
 + query_string: the query string to pull the tweet (=hydroxychloroquine)
 
 Please read the paper to see how we manually classify a tweet.
+https://arxiv.org/pdf/2201.00237.pdf
